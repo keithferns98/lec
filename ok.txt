@@ -1,0 +1,9 @@
+git clone https://github.com/keithferns98/lec.git
+git add ok.txt
+git commit -m "ok"
+git push
+
+oaopajdaasokas;k
+anknlasd
+asllsdaml
+ammsadmmas
